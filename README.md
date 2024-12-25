@@ -32,8 +32,8 @@ pip install opencv-python numpy
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/deep-learning-face-detection.git
-cd deep-learning-face-detection
+git clone https://github.com/Amussse7/FaceScope.git
+cd FaceScope
 ```
 
 2. Download the required model files:
