@@ -25,10 +25,6 @@ pip install opencv-python numpy
 
 ## 📦 Installation
 
-```bash
-pip install opencv-python numpy
-```
-
 1. Clone the Repository:
 
 ```bash
@@ -70,16 +66,6 @@ Command Line Arguments
 python3 detect_faces.py -i img-football-player.jpg -p deploy.prototxt.txt -m res10_300x300_ssd_iter_140000.caffemodel
 ```
 
-## 📁 Project Structure
-
-```bash
-.
-├── detect_faces.py
-├── download_model.py
-├── deploy.prototxt.txt
-├── res10_300x300_ssd_iter_140000.caffemodel
-└── README.md
-```
 
 ## Results
 
