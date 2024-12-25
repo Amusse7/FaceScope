@@ -1,4 +1,4 @@
-# Deep Learning Face Detection
+# Deep Learning Face Detection 🎯
 
 Real-time face detection powered by OpenCV's DNN module and a Caffe-based model. This system efficiently detects faces in images using deep learning techniques with high accuracy.
 
