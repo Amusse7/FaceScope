@@ -80,3 +80,9 @@ python3 detect_faces.py -i img-football-player.jpg -p deploy.prototxt.txt -m res
 ├── res10_300x300_ssd_iter_140000.caffemodel
 └── README.md
 ```
+
+## Results
+
+<img src="Football-Player.png" alt="Demo" width="600"/>
+
+<img src="Wharton-Alumni.png" alt="Demo" width="600"/>
